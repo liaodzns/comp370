@@ -1,0 +1,1 @@
+After going through the data, the counting problem is a result of bots either copying and retweeting what they said previously or tweeting something similar to what they tweeted previously. Therefore although the data does not contain exact copies of entries, it contains copies of what the bots are tweeting.
