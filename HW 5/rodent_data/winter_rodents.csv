@@ -1,0 +1,201 @@
+complaint_type,complaint_desc,borough,count
+Food Establishment,Rodents/Insects/Garbage,MANHATTAN,Cafeteria - College/University,1
+Food Establishment,Rodents/Insects/Garbage,QUEENS,Catering Service,1
+Food Establishment,Rodents/Insects/Garbage,BRONX,Other (Explain Below),1
+Food Establishment,Rodents/Insects/Garbage,BROOKLYN,Other (Explain Below),4
+Food Establishment,Rodents/Insects/Garbage,MANHATTAN,Other (Explain Below),2
+Food Establishment,Rodents/Insects/Garbage,QUEENS,Other (Explain Below),3
+Food Establishment,Rodents/Insects/Garbage,Unspecified,Other (Explain Below),2
+Food Establishment,Rodents/Insects/Garbage,BRONX,Restaurant/Bar/Deli/Bakery,10
+Food Establishment,Rodents/Insects/Garbage,BROOKLYN,Restaurant/Bar/Deli/Bakery,49
+Food Establishment,Rodents/Insects/Garbage,MANHATTAN,Restaurant/Bar/Deli/Bakery,31
+Food Establishment,Rodents/Insects/Garbage,QUEENS,Restaurant/Bar/Deli/Bakery,38
+Food Establishment,Rodents/Insects/Garbage,STATEN ISLAND,Restaurant/Bar/Deli/Bakery,9
+Food Establishment,Rodents/Insects/Garbage,Unspecified,Restaurant/Bar/Deli/Bakery,16
+Maintenance or Facility,Rodent Sighting,BRONX,Park,12
+Maintenance or Facility,Rodent Sighting,BROOKLYN,Park,22
+Maintenance or Facility,Rodent Sighting,MANHATTAN,Park,59
+Maintenance or Facility,Rodent Sighting,QUEENS,Park,25
+Maintenance or Facility,Rodent Sighting,STATEN ISLAND,Park,2
+Maintenance or Facility,Rodent Sighting,Unspecified,Park,1
+Maintenance or Facility,Rodent Sighting,BROOKLYN,Street/Curbside,5
+Maintenance or Facility,Rodent Sighting,MANHATTAN,Street/Curbside,4
+Maintenance or Facility,Rodent Sighting,QUEENS,Street/Curbside,2
+Rodent,Condition Attracting Rodents,BRONX,1-2 Family Dwelling,24
+Rodent,Condition Attracting Rodents,BROOKLYN,1-2 Family Dwelling,45
+Rodent,Condition Attracting Rodents,MANHATTAN,1-2 Family Dwelling,4
+Rodent,Condition Attracting Rodents,QUEENS,1-2 Family Dwelling,49
+Rodent,Condition Attracting Rodents,STATEN ISLAND,1-2 Family Dwelling,24
+Rodent,Condition Attracting Rodents,BRONX,1-2 Family Mixed Use Building,1
+Rodent,Condition Attracting Rodents,BROOKLYN,1-2 Family Mixed Use Building,3
+Rodent,Condition Attracting Rodents,QUEENS,1-2 Family Mixed Use Building,3
+Rodent,Condition Attracting Rodents,STATEN ISLAND,1-2 Family Mixed Use Building,1
+Rodent,Condition Attracting Rodents,BRONX,3+ Family Apt. Building,48
+Rodent,Condition Attracting Rodents,BROOKLYN,3+ Family Apt. Building,79
+Rodent,Condition Attracting Rodents,MANHATTAN,3+ Family Apt. Building,54
+Rodent,Condition Attracting Rodents,QUEENS,3+ Family Apt. Building,25
+Rodent,Condition Attracting Rodents,STATEN ISLAND,3+ Family Apt. Building,3
+Rodent,Condition Attracting Rodents,Unspecified,3+ Family Apt. Building,1
+Rodent,Condition Attracting Rodents,BRONX,3+ Family Mixed Use Building,3
+Rodent,Condition Attracting Rodents,BROOKLYN,3+ Family Mixed Use Building,10
+Rodent,Condition Attracting Rodents,MANHATTAN,3+ Family Mixed Use Building,8
+Rodent,Condition Attracting Rodents,QUEENS,3+ Family Mixed Use Building,1
+Rodent,Condition Attracting Rodents,BROOKLYN,Catch Basin/Sewer,1
+Rodent,Condition Attracting Rodents,MANHATTAN,Catch Basin/Sewer,1
+Rodent,Condition Attracting Rodents,BRONX,Commercial Building,5
+Rodent,Condition Attracting Rodents,BROOKLYN,Commercial Building,21
+Rodent,Condition Attracting Rodents,MANHATTAN,Commercial Building,9
+Rodent,Condition Attracting Rodents,QUEENS,Commercial Building,18
+Rodent,Condition Attracting Rodents,STATEN ISLAND,Commercial Building,2
+Rodent,Condition Attracting Rodents,BROOKLYN,Construction Site,2
+Rodent,Condition Attracting Rodents,MANHATTAN,Construction Site,2
+Rodent,Condition Attracting Rodents,STATEN ISLAND,Construction Site,1
+Rodent,Condition Attracting Rodents,MANHATTAN,Day Care/Nursery,1
+Rodent,Condition Attracting Rodents,QUEENS,Day Care/Nursery,1
+Rodent,Condition Attracting Rodents,MANHATTAN,Government Building,1
+Rodent,Condition Attracting Rodents,BRONX,Other (Explain Below),4
+Rodent,Condition Attracting Rodents,BROOKLYN,Other (Explain Below),14
+Rodent,Condition Attracting Rodents,MANHATTAN,Other (Explain Below),5
+Rodent,Condition Attracting Rodents,QUEENS,Other (Explain Below),13
+Rodent,Condition Attracting Rodents,STATEN ISLAND,Other (Explain Below),4
+Rodent,Condition Attracting Rodents,BROOKLYN,Parking Lot/Garage,6
+Rodent,Condition Attracting Rodents,MANHATTAN,Parking Lot/Garage,1
+Rodent,Condition Attracting Rodents,QUEENS,Parking Lot/Garage,6
+Rodent,Condition Attracting Rodents,MANHATTAN,Public Garden,2
+Rodent,Condition Attracting Rodents,BRONX,Public Stairs,1
+Rodent,Condition Attracting Rodents,MANHATTAN,School/Pre-School,1
+Rodent,Condition Attracting Rodents,BRONX,Vacant Building,1
+Rodent,Condition Attracting Rodents,BROOKLYN,Vacant Building,4
+Rodent,Condition Attracting Rodents,QUEENS,Vacant Building,2
+Rodent,Condition Attracting Rodents,BRONX,Vacant Lot,1
+Rodent,Condition Attracting Rodents,BROOKLYN,Vacant Lot,6
+Rodent,Condition Attracting Rodents,MANHATTAN,Vacant Lot,4
+Rodent,Condition Attracting Rodents,QUEENS,Vacant Lot,5
+Rodent,Condition Attracting Rodents,STATEN ISLAND,Vacant Lot,1
+Rodent,Mouse Sighting,BRONX,1-2 Family Dwelling,7
+Rodent,Mouse Sighting,BROOKLYN,1-2 Family Dwelling,13
+Rodent,Mouse Sighting,MANHATTAN,1-2 Family Dwelling,4
+Rodent,Mouse Sighting,QUEENS,1-2 Family Dwelling,11
+Rodent,Mouse Sighting,STATEN ISLAND,1-2 Family Dwelling,2
+Rodent,Mouse Sighting,BROOKLYN,1-2 Family Mixed Use Building,3
+Rodent,Mouse Sighting,MANHATTAN,1-2 Family Mixed Use Building,1
+Rodent,Mouse Sighting,QUEENS,1-2 Family Mixed Use Building,1
+Rodent,Mouse Sighting,BRONX,3+ Family Apt. Building,39
+Rodent,Mouse Sighting,BROOKLYN,3+ Family Apt. Building,52
+Rodent,Mouse Sighting,MANHATTAN,3+ Family Apt. Building,48
+Rodent,Mouse Sighting,QUEENS,3+ Family Apt. Building,22
+Rodent,Mouse Sighting,STATEN ISLAND,3+ Family Apt. Building,2
+Rodent,Mouse Sighting,BRONX,3+ Family Mixed Use Building,5
+Rodent,Mouse Sighting,BROOKLYN,3+ Family Mixed Use Building,2
+Rodent,Mouse Sighting,MANHATTAN,3+ Family Mixed Use Building,3
+Rodent,Mouse Sighting,QUEENS,3+ Family Mixed Use Building,1
+Rodent,Mouse Sighting,BROOKLYN,Commercial Building,3
+Rodent,Mouse Sighting,MANHATTAN,Commercial Building,2
+Rodent,Mouse Sighting,QUEENS,Commercial Building,3
+Rodent,Mouse Sighting,STATEN ISLAND,Commercial Building,1
+Rodent,Mouse Sighting,QUEENS,Day Care/Nursery,1
+Rodent,Mouse Sighting,BRONX,Government Building,1
+Rodent,Mouse Sighting,BRONX,Other (Explain Below),5
+Rodent,Mouse Sighting,BROOKLYN,Other (Explain Below),7
+Rodent,Mouse Sighting,MANHATTAN,Other (Explain Below),5
+Rodent,Mouse Sighting,QUEENS,Other (Explain Below),3
+Rodent,Mouse Sighting,BROOKLYN,Vacant Building,1
+Rodent,Mouse Sighting,BROOKLYN,Vacant Lot,1
+Rodent,Rat Sighting,BRONX,1-2 Family Dwelling,38
+Rodent,Rat Sighting,BROOKLYN,1-2 Family Dwelling,112
+Rodent,Rat Sighting,MANHATTAN,1-2 Family Dwelling,10
+Rodent,Rat Sighting,QUEENS,1-2 Family Dwelling,87
+Rodent,Rat Sighting,STATEN ISLAND,1-2 Family Dwelling,35
+Rodent,Rat Sighting,BRONX,1-2 Family Mixed Use Building,8
+Rodent,Rat Sighting,BROOKLYN,1-2 Family Mixed Use Building,19
+Rodent,Rat Sighting,MANHATTAN,1-2 Family Mixed Use Building,3
+Rodent,Rat Sighting,QUEENS,1-2 Family Mixed Use Building,4
+Rodent,Rat Sighting,STATEN ISLAND,1-2 Family Mixed Use Building,2
+Rodent,Rat Sighting,BRONX,3+ Family Apt. Building,144
+Rodent,Rat Sighting,BROOKLYN,3+ Family Apt. Building,212
+Rodent,Rat Sighting,MANHATTAN,3+ Family Apt. Building,197
+Rodent,Rat Sighting,QUEENS,3+ Family Apt. Building,64
+Rodent,Rat Sighting,STATEN ISLAND,3+ Family Apt. Building,6
+Rodent,Rat Sighting,BRONX,3+ Family Mixed Use Building,16
+Rodent,Rat Sighting,BROOKLYN,3+ Family Mixed Use Building,26
+Rodent,Rat Sighting,MANHATTAN,3+ Family Mixed Use Building,37
+Rodent,Rat Sighting,QUEENS,3+ Family Mixed Use Building,8
+Rodent,Rat Sighting,STATEN ISLAND,3+ Family Mixed Use Building,1
+Rodent,Rat Sighting,BRONX,Catch Basin/Sewer,4
+Rodent,Rat Sighting,BROOKLYN,Catch Basin/Sewer,4
+Rodent,Rat Sighting,MANHATTAN,Catch Basin/Sewer,6
+Rodent,Rat Sighting,QUEENS,Catch Basin/Sewer,2
+Rodent,Rat Sighting,BRONX,Commercial Building,14
+Rodent,Rat Sighting,BROOKLYN,Commercial Building,44
+Rodent,Rat Sighting,MANHATTAN,Commercial Building,25
+Rodent,Rat Sighting,QUEENS,Commercial Building,13
+Rodent,Rat Sighting,STATEN ISLAND,Commercial Building,4
+Rodent,Rat Sighting,BROOKLYN,Construction Site,12
+Rodent,Rat Sighting,MANHATTAN,Construction Site,9
+Rodent,Rat Sighting,QUEENS,Construction Site,6
+Rodent,Rat Sighting,STATEN ISLAND,Construction Site,2
+Rodent,Rat Sighting,BROOKLYN,Day Care/Nursery,2
+Rodent,Rat Sighting,BRONX,Hospital,1
+Rodent,Rat Sighting,BRONX,Other (Explain Below),14
+Rodent,Rat Sighting,BROOKLYN,Other (Explain Below),69
+Rodent,Rat Sighting,MANHATTAN,Other (Explain Below),81
+Rodent,Rat Sighting,QUEENS,Other (Explain Below),37
+Rodent,Rat Sighting,STATEN ISLAND,Other (Explain Below),4
+Rodent,Rat Sighting,BRONX,Parking Lot/Garage,3
+Rodent,Rat Sighting,BROOKLYN,Parking Lot/Garage,10
+Rodent,Rat Sighting,MANHATTAN,Parking Lot/Garage,3
+Rodent,Rat Sighting,QUEENS,Parking Lot/Garage,5
+Rodent,Rat Sighting,STATEN ISLAND,Parking Lot/Garage,1
+Rodent,Rat Sighting,BROOKLYN,Public Garden,5
+Rodent,Rat Sighting,MANHATTAN,Public Garden,1
+Rodent,Rat Sighting,BRONX,Public Stairs,2
+Rodent,Rat Sighting,BROOKLYN,Single Room Occupancy (SRO),1
+Rodent,Rat Sighting,BRONX,Vacant Building,5
+Rodent,Rat Sighting,BROOKLYN,Vacant Building,6
+Rodent,Rat Sighting,MANHATTAN,Vacant Building,7
+Rodent,Rat Sighting,QUEENS,Vacant Building,3
+Rodent,Rat Sighting,STATEN ISLAND,Vacant Building,1
+Rodent,Rat Sighting,BRONX,Vacant Lot,4
+Rodent,Rat Sighting,BROOKLYN,Vacant Lot,26
+Rodent,Rat Sighting,MANHATTAN,Vacant Lot,1
+Rodent,Rat Sighting,QUEENS,Vacant Lot,4
+Rodent,Rat Sighting,STATEN ISLAND,Vacant Lot,1
+Rodent,Rat Sighting,Unspecified,Vacant Lot,1
+Rodent,Rodent Bite - PCS Only,BROOKLYN,1-2 Family Mixed Use Building,1
+Rodent,Signs of Rodents,BRONX,1-2 Family Dwelling,8
+Rodent,Signs of Rodents,BROOKLYN,1-2 Family Dwelling,20
+Rodent,Signs of Rodents,MANHATTAN,1-2 Family Dwelling,1
+Rodent,Signs of Rodents,QUEENS,1-2 Family Dwelling,14
+Rodent,Signs of Rodents,STATEN ISLAND,1-2 Family Dwelling,6
+Rodent,Signs of Rodents,BRONX,3+ Family Apt. Building,19
+Rodent,Signs of Rodents,BROOKLYN,3+ Family Apt. Building,44
+Rodent,Signs of Rodents,MANHATTAN,3+ Family Apt. Building,31
+Rodent,Signs of Rodents,QUEENS,3+ Family Apt. Building,9
+Rodent,Signs of Rodents,BRONX,3+ Family Mixed Use Building,3
+Rodent,Signs of Rodents,BROOKLYN,3+ Family Mixed Use Building,3
+Rodent,Signs of Rodents,MANHATTAN,3+ Family Mixed Use Building,2
+Rodent,Signs of Rodents,MANHATTAN,Catch Basin/Sewer,3
+Rodent,Signs of Rodents,BRONX,Commercial Building,1
+Rodent,Signs of Rodents,BROOKLYN,Commercial Building,2
+Rodent,Signs of Rodents,MANHATTAN,Commercial Building,3
+Rodent,Signs of Rodents,QUEENS,Commercial Building,3
+Rodent,Signs of Rodents,STATEN ISLAND,Commercial Building,1
+Rodent,Signs of Rodents,MANHATTAN,Construction Site,1
+Rodent,Signs of Rodents,QUEENS,Construction Site,1
+Rodent,Signs of Rodents,BRONX,Other (Explain Below),3
+Rodent,Signs of Rodents,BROOKLYN,Other (Explain Below),15
+Rodent,Signs of Rodents,MANHATTAN,Other (Explain Below),6
+Rodent,Signs of Rodents,QUEENS,Other (Explain Below),3
+Rodent,Signs of Rodents,QUEENS,Parking Lot/Garage,1
+Rodent,Signs of Rodents,BROOKLYN,Vacant Building,1
+Rodent,Signs of Rodents,MANHATTAN,Vacant Building,1
+Rodent,Signs of Rodents,STATEN ISLAND,Vacant Building,1
+Rodent,Signs of Rodents,BRONX,Vacant Lot,1
+Rodent,Signs of Rodents,BROOKLYN,Vacant Lot,1
+Rodent,Signs of Rodents,MANHATTAN,Vacant Lot,1
+Rodent,Signs of Rodents,QUEENS,Vacant Lot,2
+School Maintenance,Rodents/Mice,BRONX,School,2
+School Maintenance,Rodents/Mice,BROOKLYN,School,1
+School Maintenance,Rodents/Mice,MANHATTAN,School,2
+School Maintenance,Rodents/Mice,QUEENS,School,1
+School Maintenance,Rodents/Mice,STATEN ISLAND,School,1

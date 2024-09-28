@@ -1,0 +1,200 @@
+complaint_type,complaint_desc,borough,count
+Collection Truck Noise,21 Collection Truck Noise,MANHATTAN,1
+Noise,Noise: Barking Dog (NR5),BRONX,244
+Noise,Noise: Barking Dog (NR5),BROOKLYN,659
+Noise,Noise: Barking Dog (NR5),MANHATTAN,326
+Noise,Noise: Barking Dog (NR5),QUEENS,508
+Noise,Noise: Barking Dog (NR5),STATEN ISLAND,275
+Noise,Noise: Ice Cream Truck (NR4),BRONX,258
+Noise,Noise: Ice Cream Truck (NR4),BROOKLYN,388
+Noise,Noise: Ice Cream Truck (NR4),MANHATTAN,612
+Noise,Noise: Ice Cream Truck (NR4),QUEENS,420
+Noise,Noise: Ice Cream Truck (NR4),STATEN ISLAND,30
+Noise,Noise: Other Animals (NR6),BRONX,24
+Noise,Noise: Other Animals (NR6),BROOKLYN,31
+Noise,Noise: Other Animals (NR6),MANHATTAN,14
+Noise,Noise: Other Animals (NR6),QUEENS,48
+Noise,Noise: Other Animals (NR6),STATEN ISLAND,9
+Noise,Noise:  lawn care equipment (NCL),BRONX,9
+Noise,Noise:  lawn care equipment (NCL),BROOKLYN,32
+Noise,Noise:  lawn care equipment (NCL),MANHATTAN,26
+Noise,Noise:  lawn care equipment (NCL),QUEENS,52
+Noise,Noise:  lawn care equipment (NCL),STATEN ISLAND,16
+Noise,Noise: Alarms (NR3),BRONX,153
+Noise,Noise: Alarms (NR3),BROOKLYN,589
+Noise,Noise: Alarms (NR3),MANHATTAN,473
+Noise,Noise: Alarms (NR3),QUEENS,642
+Noise,Noise: Alarms (NR3),STATEN ISLAND,34
+Noise,Noise: Boat (NR10),BRONX,98
+Noise,Noise: Boat (NR10),BROOKLYN,10
+Noise,Noise: Boat (NR10),MANHATTAN,21
+Noise,Noise: Boat (NR10),QUEENS,110
+Noise,Noise: Construction Before/After Hours (NM1),BRONX,284
+Noise,Noise: Construction Before/After Hours (NM1),BROOKLYN,2037
+Noise,Noise: Construction Before/After Hours (NM1),MANHATTAN,2924
+Noise,Noise: Construction Before/After Hours (NM1),QUEENS,1053
+Noise,Noise: Construction Before/After Hours (NM1),STATEN ISLAND,232
+Noise,Noise: Construction Equipment (NC1),BRONX,230
+Noise,Noise: Construction Equipment (NC1),BROOKLYN,1275
+Noise,Noise: Construction Equipment (NC1),MANHATTAN,1710
+Noise,Noise: Construction Equipment (NC1),QUEENS,584
+Noise,Noise: Construction Equipment (NC1),STATEN ISLAND,106
+Noise,Noise: Construction Equipment (NC1),Unspecified,1
+Noise,Noise: Jack Hammering (NC2),BRONX,87
+Noise,Noise: Jack Hammering (NC2),BROOKLYN,408
+Noise,Noise: Jack Hammering (NC2),MANHATTAN,755
+Noise,Noise: Jack Hammering (NC2),QUEENS,213
+Noise,Noise: Jack Hammering (NC2),STATEN ISLAND,23
+Noise,Noise: Jack Hammering (NC2),Unspecified,1
+Noise,Noise: Loud Music/Daytime (Mark Date And Time) (NN1),BROOKLYN,1
+Noise,Noise: Manufacturing Noise (NK1),BRONX,9
+Noise,Noise: Manufacturing Noise (NK1),BROOKLYN,67
+Noise,Noise: Manufacturing Noise (NK1),MANHATTAN,21
+Noise,Noise: Manufacturing Noise (NK1),QUEENS,22
+Noise,Noise: Manufacturing Noise (NK1),STATEN ISLAND,1
+Noise,Noise: Other Noise Sources (Use Comments) (NZZ),BRONX,1
+Noise,Noise: Private Carting Noise (NQ1),BRONX,27
+Noise,Noise: Private Carting Noise (NQ1),BROOKLYN,86
+Noise,Noise: Private Carting Noise (NQ1),MANHATTAN,136
+Noise,Noise: Private Carting Noise (NQ1),QUEENS,118
+Noise,Noise: Private Carting Noise (NQ1),STATEN ISLAND,10
+Noise,Noise: air condition/ventilation equipment (NV1),BRONX,87
+Noise,Noise: air condition/ventilation equipment (NV1),BROOKLYN,415
+Noise,Noise: air condition/ventilation equipment (NV1),MANHATTAN,896
+Noise,Noise: air condition/ventilation equipment (NV1),QUEENS,230
+Noise,Noise: air condition/ventilation equipment (NV1),STATEN ISLAND,38
+Noise,Noise: lawn care equipment (NCL),BRONX,31
+Noise,Noise: lawn care equipment (NCL),BROOKLYN,63
+Noise,Noise: lawn care equipment (NCL),MANHATTAN,51
+Noise,Noise: lawn care equipment (NCL),QUEENS,126
+Noise,Noise: lawn care equipment (NCL),STATEN ISLAND,25
+Noise - Commercial,Banging/Pounding,BRONX,228
+Noise - Commercial,Banging/Pounding,BROOKLYN,819
+Noise - Commercial,Banging/Pounding,MANHATTAN,656
+Noise - Commercial,Banging/Pounding,QUEENS,604
+Noise - Commercial,Banging/Pounding,STATEN ISLAND,53
+Noise - Commercial,Car/Truck Horn,BRONX,48
+Noise - Commercial,Car/Truck Horn,BROOKLYN,614
+Noise - Commercial,Car/Truck Horn,MANHATTAN,77
+Noise - Commercial,Car/Truck Horn,QUEENS,121
+Noise - Commercial,Car/Truck Horn,STATEN ISLAND,11
+Noise - Commercial,Car/Truck Music,BRONX,402
+Noise - Commercial,Car/Truck Music,BROOKLYN,514
+Noise - Commercial,Car/Truck Music,MANHATTAN,301
+Noise - Commercial,Car/Truck Music,QUEENS,273
+Noise - Commercial,Car/Truck Music,STATEN ISLAND,26
+Noise - Commercial,Loud Music/Party,BRONX,3009
+Noise - Commercial,Loud Music/Party,BROOKLYN,3878
+Noise - Commercial,Loud Music/Party,MANHATTAN,4456
+Noise - Commercial,Loud Music/Party,QUEENS,4060
+Noise - Commercial,Loud Music/Party,STATEN ISLAND,326
+Noise - Commercial,Loud Music/Party,Unspecified,5
+Noise - Commercial,Loud Talking,BRONX,359
+Noise - Commercial,Loud Talking,BROOKLYN,494
+Noise - Commercial,Loud Talking,MANHATTAN,601
+Noise - Commercial,Loud Talking,QUEENS,444
+Noise - Commercial,Loud Talking,STATEN ISLAND,34
+Noise - Commercial,Loud Television,BROOKLYN,21
+Noise - Commercial,Loud Television,MANHATTAN,16
+Noise - Commercial,Loud Television,QUEENS,14
+Noise - Commercial,Loud Television,STATEN ISLAND,2
+Noise - Helicopter,NYPD,BRONX,36
+Noise - Helicopter,NYPD,BROOKLYN,419
+Noise - Helicopter,NYPD,MANHATTAN,215
+Noise - Helicopter,NYPD,QUEENS,19
+Noise - Helicopter,NYPD,STATEN ISLAND,4
+Noise - Helicopter,News Gathering,BRONX,3
+Noise - Helicopter,News Gathering,BROOKLYN,59
+Noise - Helicopter,News Gathering,MANHATTAN,64
+Noise - Helicopter,News Gathering,QUEENS,13
+Noise - Helicopter,Other,BRONX,13
+Noise - Helicopter,Other,BROOKLYN,362
+Noise - Helicopter,Other,MANHATTAN,1485
+Noise - Helicopter,Other,QUEENS,887
+Noise - Helicopter,Other,STATEN ISLAND,12
+Noise - House of Worship,Banging/Pounding,BRONX,3
+Noise - House of Worship,Banging/Pounding,BROOKLYN,22
+Noise - House of Worship,Banging/Pounding,MANHATTAN,7
+Noise - House of Worship,Banging/Pounding,QUEENS,9
+Noise - House of Worship,Banging/Pounding,STATEN ISLAND,1
+Noise - House of Worship,Loud Music/Party,BRONX,32
+Noise - House of Worship,Loud Music/Party,BROOKLYN,102
+Noise - House of Worship,Loud Music/Party,MANHATTAN,29
+Noise - House of Worship,Loud Music/Party,QUEENS,52
+Noise - House of Worship,Loud Music/Party,STATEN ISLAND,4
+Noise - House of Worship,Loud Talking,BRONX,11
+Noise - House of Worship,Loud Talking,BROOKLYN,24
+Noise - House of Worship,Loud Talking,MANHATTAN,10
+Noise - House of Worship,Loud Talking,QUEENS,9
+Noise - House of Worship,Loud Talking,STATEN ISLAND,2
+Noise - House of Worship,Loud Television,BRONX,1
+Noise - House of Worship,Loud Television,BROOKLYN,1
+Noise - Park,Loud Music/Party,BRONX,1884
+Noise - Park,Loud Music/Party,BROOKLYN,812
+Noise - Park,Loud Music/Party,MANHATTAN,1551
+Noise - Park,Loud Music/Party,QUEENS,731
+Noise - Park,Loud Music/Party,STATEN ISLAND,34
+Noise - Park,Loud Music/Party,Unspecified,149
+Noise - Park,Loud Talking,BRONX,48
+Noise - Park,Loud Talking,BROOKLYN,177
+Noise - Park,Loud Talking,MANHATTAN,87
+Noise - Park,Loud Talking,QUEENS,166
+Noise - Park,Loud Talking,STATEN ISLAND,7
+Noise - Park,Loud Talking,Unspecified,8
+Noise - Residential,Banging/Pounding,BRONX,12079
+Noise - Residential,Banging/Pounding,BROOKLYN,11980
+Noise - Residential,Banging/Pounding,MANHATTAN,9966
+Noise - Residential,Banging/Pounding,QUEENS,8452
+Noise - Residential,Banging/Pounding,STATEN ISLAND,1404
+Noise - Residential,Banging/Pounding,Unspecified,35
+Noise - Residential,Loud Music/Party,BRONX,87644
+Noise - Residential,Loud Music/Party,BROOKLYN,39405
+Noise - Residential,Loud Music/Party,MANHATTAN,22482
+Noise - Residential,Loud Music/Party,QUEENS,34640
+Noise - Residential,Loud Music/Party,STATEN ISLAND,5067
+Noise - Residential,Loud Music/Party,Unspecified,95
+Noise - Residential,Loud Talking,BRONX,1922
+Noise - Residential,Loud Talking,BROOKLYN,3515
+Noise - Residential,Loud Talking,MANHATTAN,2381
+Noise - Residential,Loud Talking,QUEENS,2599
+Noise - Residential,Loud Talking,STATEN ISLAND,655
+Noise - Residential,Loud Talking,Unspecified,12
+Noise - Residential,Loud Television,BRONX,583
+Noise - Residential,Loud Television,BROOKLYN,984
+Noise - Residential,Loud Television,MANHATTAN,583
+Noise - Residential,Loud Television,QUEENS,689
+Noise - Residential,Loud Television,STATEN ISLAND,77
+Noise - Street/Sidewalk,Loud Music/Party,BRONX,46929
+Noise - Street/Sidewalk,Loud Music/Party,BROOKLYN,28843
+Noise - Street/Sidewalk,Loud Music/Party,MANHATTAN,47115
+Noise - Street/Sidewalk,Loud Music/Party,QUEENS,13419
+Noise - Street/Sidewalk,Loud Music/Party,STATEN ISLAND,1224
+Noise - Street/Sidewalk,Loud Music/Party,Unspecified,91
+Noise - Street/Sidewalk,Loud Talking,BRONX,3498
+Noise - Street/Sidewalk,Loud Talking,BROOKLYN,5033
+Noise - Street/Sidewalk,Loud Talking,MANHATTAN,6067
+Noise - Street/Sidewalk,Loud Talking,QUEENS,2858
+Noise - Street/Sidewalk,Loud Talking,STATEN ISLAND,219
+Noise - Street/Sidewalk,Loud Talking,Unspecified,9
+Noise - Vehicle,Car/Truck Horn,BRONX,433
+Noise - Vehicle,Car/Truck Horn,BROOKLYN,871
+Noise - Vehicle,Car/Truck Horn,MANHATTAN,790
+Noise - Vehicle,Car/Truck Horn,QUEENS,5607
+Noise - Vehicle,Car/Truck Horn,STATEN ISLAND,51
+Noise - Vehicle,Car/Truck Horn,Unspecified,1
+Noise - Vehicle,Car/Truck Music,BRONX,18254
+Noise - Vehicle,Car/Truck Music,BROOKLYN,7231
+Noise - Vehicle,Car/Truck Music,MANHATTAN,8216
+Noise - Vehicle,Car/Truck Music,QUEENS,4554
+Noise - Vehicle,Car/Truck Music,STATEN ISLAND,327
+Noise - Vehicle,Car/Truck Music,Unspecified,21
+Noise - Vehicle,Engine Idling,BRONX,853
+Noise - Vehicle,Engine Idling,BROOKLYN,1795
+Noise - Vehicle,Engine Idling,MANHATTAN,1628
+Noise - Vehicle,Engine Idling,QUEENS,1620
+Noise - Vehicle,Engine Idling,STATEN ISLAND,211
+Noise - Vehicle,Engine Idling,Unspecified,1
+Plant,Plants- Noise Related Problems (PN1),BROOKLYN,1
+Plant,Plants- Noise Related Problems (PN1),QUEENS,1
+Sewer,Manhole Cover Broken/Making Noise (SB),MANHATTAN,1
+Sewer,Manhole Cover Broken/Making Noise (SB),QUEENS,1
