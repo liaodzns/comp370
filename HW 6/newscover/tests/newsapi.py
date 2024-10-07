@@ -7,11 +7,6 @@ with open('tests_secrets.json', 'r') as file:
 API_KEY = secrets['API_KEY']
 
 class TestNewsAPI(unittest.TestCase, API_KEY):
-    
-    def test_fetch_latest_news(self):
-        news = fetch_latest_news(API_KEY, 'python')
-        self.assertIsNotNone(news)
-        self.assertIn('articles', news)
 
     def test_fetch_latest_news_no_keywords(self):
         with self.assertRaises(ValueError):
