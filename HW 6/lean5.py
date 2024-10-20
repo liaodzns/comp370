@@ -19,6 +19,23 @@ total_sales_2023 = sum_sales(book_sales_2023, game_sales_2023)
 total_sales_2024 = sum_sales(book_sales_2024, game_sales_2024)
 
 
+# Practice again for midterm:
+
+years = [2022, 2023, 2024]
+products = [ 'book', 'game']
+sales_data = {}
+
+for product in products: 
+    sales_data[product] = {}
+    for year in years:
+        file_name = f'data/{product}_sales_{year}.csv'
+        sales_data[product][year] = load(file_name)
+
+total_sales = {}
+for year in years:
+    total_sales[year] = sum_sales(sales_data['book'][year], sales_data['game'][year])
+
+
 # Refactored code:
 
 years = [2022, 2023, 2024]
