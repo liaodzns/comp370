@@ -31,7 +31,7 @@ p = figure(title="", x_axis_type="", height="", width="",)
 
 # dropdown menu:
 dropdown_option = Select(title="Select first dropdown", value="Default value to display", options="Values in dataframe")
-# Create the lines
+# Create the lines on the figure 
 line = p.line('x_data', 'y_data', source="If Needed", color="color", legend_label="Little Label in the Corner" )
     # add more as needed
     
@@ -59,3 +59,46 @@ curdoc().title = "Dashboard"
 
 # bokeh serve --show {bokeh_app}.py --port 8080
 
+
+import json
+import sys
+
+def old():
+    fname = sys.argv[1]
+    
+    field_name = "age"
+    if len(sys.argv) == 3:
+        field_name = sys.argv[2]
+        
+    with open(fname, 'r') as fh:
+        data = json.load(fh)
+    
+    x = sum([x[field_name] for x in data]) / float(len(data)) # get the average value of specifc field over all entries of data
+    
+    return x
+#news
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-f', '--file', required=True, help="File Name")
+    parser.add_argument('-n', '--field', required=False, help="Optional Field")
+    args = parser.parse_args()
+    
+    default_field = "age"
+    if args.field != None:
+        default_field = args.field
+        
+    data = load_file(args.file)
+    average = calculate_avg(data, default_field)
+    print(average)
+
+def load_file(filename):
+    with open(filename, 'r') as fh:
+        data = json.load(fh)
+    return data
+        
+def calculate_avg(data, field_name):
+    x = sum([x[field_name] for x in data]) / float(len(data))
+    return x
+
+if __name__ == '__main__':
+    main()
